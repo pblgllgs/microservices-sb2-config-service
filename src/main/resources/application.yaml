@@ -6,7 +6,7 @@ spring:
       server:
         git:
           uri: https://github.com/pblgllgs/config-server-microservices-sb2
-          default-label: master
+          default-label: jwt-auth
           search-paths: configurations
           clone-on-start: true
   application:
